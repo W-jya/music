@@ -1,0 +1,39 @@
+[
+    {
+        "image": "/source/song_1.jpg",
+        "audio": "/source/song_1.mp3",
+        "song": "心如止水（Prod.by周星星）",
+        "album": "心如止水",
+        "singer": "周星星",
+        "duration": 67,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_2.jpg",
+        "audio": "/source/song_2.mp3",
+        "song": "小半",
+        "album": "小梦大半",
+        "singer": "陈粒",
+        "duration": 297,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_3.jpg",
+        "audio": "/source/song_3.mp3",
+        "song": "Shape of You",
+        "album": "÷",
+        "singer": "ed sheeran",
+        "duration": 235,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_4.jpg",
+        "audio": "/source/song_4.mp3",
+        "song": "东北民谣",
+        "album": "我是唱作人",
+        "singer": "毛不易",
+        "duration": 281,
+        "isLike": false
+    }
+    
+]
